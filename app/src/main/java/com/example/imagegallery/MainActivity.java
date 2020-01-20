@@ -59,6 +59,9 @@ public class MainActivity extends AppCompatActivity {
         animation1.setDuration(2000);
 
     }
+    void test(){
+        
+    }
 
     private void viewMenu() {
 
